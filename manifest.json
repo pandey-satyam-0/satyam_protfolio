@@ -1,0 +1,53 @@
+{
+    "lang": "en",
+    "short_name": "Satyam",
+    "name": "Protfolio-Satyam Pandey",
+    "description": "Satyam Pandey, As a web developer with 1.4 years of experience, you have likely gained a solid understanding of the fundamentals of web development and have been involved in building and maintaining various web applications. During your time as a web developer, you may have had the opportunity to work on both the front-end and back-end of web development, which has given you a well-rounded understanding of the entire development process. You have likely developed a strong proficiency in programming languages such as HTML, CSS, JavaScript, and various web development frameworks like React or Angular. In addition to technical skills, you may have also gained experience in project management, communication, and collaboration with team members and clients. As a web developer, you are committed to staying up-to-date with the latest trends and advancements in web development technology, and you continually strive to improve your skills and expand your knowledge. With your experience, you are well-equipped to tackle new challenges and contribute to the success of any web development project.",
+    "icons": [
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/log.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#F7F8F9",
+    "theme_color": "#4A90E2",
+    "orientation": "portrait"
+}
+
+
+ 
